@@ -1,0 +1,3 @@
+---
+- get_facts:
+    os_version: 4.19.5M-2GB-7506183.4195M
